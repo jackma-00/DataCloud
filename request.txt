@@ -1,0 +1,5 @@
+curl -X 'GET' \
+  'http://crowdserv.sys.kth.se:8082/api/repo/exportyaml/testuser/DEF-SIM-PIPE' \
+  -H 'accept: text/plain'
+  
+  http://crowdserv.sys.kth.se:8082/api/repo/exportyaml/testuser/DEF-SIM-PIPE
